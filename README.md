@@ -1,2 +1,2 @@
 # PHP
-Alguns trabalhos feitos em PHP
+Alguns exercicíos da graduação feitos em PHP.
